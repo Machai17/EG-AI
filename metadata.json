@@ -1,0 +1,9 @@
+{
+  "name": "EnfermaFit Pro v2 (Global Edition)",
+  "description": "Assistente de Enfermagem e Fitoterapia com suporte internacional (Brasil, Angola, Portugal e mais). Gestão de condutas clínicas 24/7.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
